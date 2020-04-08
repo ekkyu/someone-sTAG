@@ -83,5 +83,5 @@ class PlofileCollecter:
             
 if __name__ == '__main__':
     pc = PlofileCollecter()
-    user_name = "ekkkkkkkkkkkkkkkyu"
+    user_name = "write someone's ID to here"
     plofile_data = pc.main_loop(user_name)
